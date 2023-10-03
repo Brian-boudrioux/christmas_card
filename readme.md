@@ -1,5 +1,6 @@
 ## Let's go creating your first Christmas card
-
+You can see the preview of the result here
+<img src="./christmas_card.gif" />
 
 ## First Part, the HTML structure
 - 1/ Create an *index.html* with the doc type structure

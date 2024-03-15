@@ -1,4 +1,6 @@
 ## Let's go creating your first Christmas card
+You can see the preview of the result here
+<img src="./christmas_card.gif" />
 
 ## Create interactivity
 - 1/ First, we will focus on how to change the text :

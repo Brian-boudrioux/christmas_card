@@ -17,5 +17,5 @@
   - Get the image with the background with its `id` and store it on a variable
   - Get all the 3 images with the id of an parent div (Add the div and the id if needed) with a query selector all
   - Then, use the `.forEach()` method on the array of element to add an eventListener to each of them.
-  - This eventlistener (On the click), will change the *src* attribute of the backeground element with the src of the element you clicked on
+  - This eventlistener (On the click), will change the *src* attribute of the background element with the src of the element you clicked on
 

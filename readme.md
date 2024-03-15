@@ -2,8 +2,8 @@
 
 ## Create interactivity
 - 1/ First, we will focus on how to change the text :
-    - add an id on the p (*html*) and store the element on a variable in the *js*
-    - add an id on the textarea (html) and store the element on a second variable in the *js*
+    - Get the p tag with the id #card-text and store the element on a variable in your script *js*
+    - Get the textarea tag wirth the id #user-text and store the element on a second variable in your script *js*
     - on the textarea (*html*), add on `oninput` attribute that call a `updateText()` function
     - on the js, create a function `updateText()`
         Inside, just match the value of the p element to the textarea value
